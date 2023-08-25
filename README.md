@@ -1,2 +1,2 @@
 # Implementing-and-Training-RNNs
-Trained different RNNs (Elmon network, LSTM, and GRU) by implementing from scratch and compared their performance
+This was Assignment 4 of Deep Learning course at IITH
